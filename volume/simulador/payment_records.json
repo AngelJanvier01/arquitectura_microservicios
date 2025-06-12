@@ -1,0 +1,826 @@
+{
+    "372-85-2116": [
+        {
+            "amount": 5485,
+            "transaction_type": "pagina-web",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "1a3b5be440fc44a1966299928ec5b3ef",
+            "source": "conekta"
+        },
+        {
+            "amount": 3396,
+            "transaction_type": "pagina-web",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "6f018167cb8b4f86aa559dd9c1c07767",
+            "source": "mercado-pago"
+        }
+    ],
+    "827-68-8275": [
+        {
+            "amount": 6490,
+            "transaction_type": "pagina-web",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "7df0dd67d1474fcaac0b41c1e1279d82",
+            "source": "openpay"
+        },
+        {
+            "amount": 5295,
+            "transaction_type": "aplicacion",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "a8af8c59d31646f296b010149fcf4040",
+            "source": "conekta"
+        },
+        {
+            "amount": 4729,
+            "transaction_type": "aplicacion",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "00a705656ecd41928d9c416783c074cd",
+            "source": "conekta"
+        },
+        {
+            "amount": 6725,
+            "transaction_type": "transferencia",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "a2d1998d9f2e4b3cafc20dbf28dfb32d",
+            "source": "openpay"
+        },
+        {
+            "amount": 6570,
+            "transaction_type": "transferencia",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "8f67e1548f6d410aa9923fd560251feb",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 2739,
+            "transaction_type": "aplicacion",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "8bc5536ee15144a0b80529bc42fa22b0",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 4000,
+            "transaction_type": "pagina-web",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "320bbc9691ec4da2882d4f0d4da90eff",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 7941,
+            "transaction_type": "aplicacion",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "be6a7c1e9a2c437a8f8d948b1af977cd",
+            "source": "conekta"
+        },
+        {
+            "amount": 2755,
+            "transaction_type": "aplicacion",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "3b1be3eb9314494981e9e740d4080fc3",
+            "source": "openpay"
+        }
+    ],
+    "634-81-4725": [
+        {
+            "amount": 7282,
+            "transaction_type": "aplicacion",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "3eaf88f80a0c44f0b79df849d2c6ddff",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 7197,
+            "transaction_type": "aplicacion",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "df8345f02ee341adb6b6e33f7fc151e1",
+            "source": "paypal"
+        },
+        {
+            "amount": 7644,
+            "transaction_type": "transferencia",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "c696e95cdeca4c29ad68150facc8b02a",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 3402,
+            "transaction_type": "pagina-web",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "56bce3d6211e4979b0e147439df78002",
+            "source": "conekta"
+        },
+        {
+            "amount": 5022,
+            "transaction_type": "transferencia",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "9c5028b5c3294d649805860acf5d7c49",
+            "source": "openpay"
+        },
+        {
+            "amount": 4381,
+            "transaction_type": "pagina-web",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "9332d6aaddca4f84b0b769ac0df53c0b",
+            "source": "conekta"
+        },
+        {
+            "amount": 2861,
+            "transaction_type": "aplicacion",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "b6f16f1faaed43c1b8177ffb20469859",
+            "source": "openpay"
+        },
+        {
+            "amount": 3033,
+            "transaction_type": "aplicacion",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "ae0d14b4435a4b76816f1de352426883",
+            "source": "openpay"
+        }
+    ],
+    "336-10-4591": [
+        {
+            "amount": 2995,
+            "transaction_type": "aplicacion",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "8e361d9830a14574b6c5a7af4ff259cb",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 6292,
+            "transaction_type": "pagina-web",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "48d964b8a00e44d893ad6c70639fe602",
+            "source": "paypal"
+        },
+        {
+            "amount": 7221,
+            "transaction_type": "transferencia",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "73dd4345fff64d86a93fdc7fb5788606",
+            "source": "conekta"
+        },
+        {
+            "amount": 3941,
+            "transaction_type": "pagina-web",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "40aadd6c2f0343e982ea8923554f314a",
+            "source": "conekta"
+        },
+        {
+            "amount": 7791,
+            "transaction_type": "transferencia",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "9cca21d70a9f41289bccfcdaff85b99d",
+            "source": "paypal"
+        },
+        {
+            "amount": 4454,
+            "transaction_type": "pagina-web",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "acaa1450746b4b758d6a7d410d3f83cc",
+            "source": "paypal"
+        },
+        {
+            "amount": 7042,
+            "transaction_type": "transferencia",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "1714550b63ae4f66b9928c006f753e69",
+            "source": "openpay"
+        },
+        {
+            "amount": 2524,
+            "transaction_type": "transferencia",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "9c61de3827434ca584c893071a3ceb06",
+            "source": "conekta"
+        },
+        {
+            "amount": 6666,
+            "transaction_type": "pagina-web",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "ad6c2df4b9834c8a964943da60ea1426",
+            "source": "openpay"
+        }
+    ],
+    "741-59-0186": [
+        {
+            "amount": 6745,
+            "transaction_type": "transferencia",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "24c9722d0e064096886e6ca1a05ff920",
+            "source": "conekta"
+        },
+        {
+            "amount": 7400,
+            "transaction_type": "aplicacion",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "7a18c45407c549b4a4bfb1b7dc5a46a1",
+            "source": "openpay"
+        },
+        {
+            "amount": 4947,
+            "transaction_type": "aplicacion",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "076726b1e1e145aebbdc1fb5a9e40ca8",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 3994,
+            "transaction_type": "aplicacion",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "a767237a0d3b4354aaa6e01c9f575ec7",
+            "source": "openpay"
+        },
+        {
+            "amount": 6291,
+            "transaction_type": "aplicacion",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "098982bf637444f989ce409b6e69f539",
+            "source": "conekta"
+        },
+        {
+            "amount": 5468,
+            "transaction_type": "aplicacion",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "a54efc9343ec41d6a265272ba69d2144",
+            "source": "openpay"
+        },
+        {
+            "amount": 6896,
+            "transaction_type": "pagina-web",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "22b152b2333d4e80a0dc373f8e3c7309",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 4690,
+            "transaction_type": "aplicacion",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "01391eae527045089638311287ed8115",
+            "source": "openpay"
+        }
+    ],
+    "831-04-7685": [
+        {
+            "amount": 6411,
+            "transaction_type": "pagina-web",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "84e3ab2f15a34e75abf2ab0f038bdcc9",
+            "source": "mercado-pago"
+        }
+    ],
+    "626-16-8637": [
+        {
+            "amount": 7999,
+            "transaction_type": "transferencia",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "aaa51a154b0941e59730dd6cd66bd34a",
+            "source": "paypal"
+        },
+        {
+            "amount": 5353,
+            "transaction_type": "aplicacion",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "6aa55958ed6847be9f7c0dad58230492",
+            "source": "conekta"
+        },
+        {
+            "amount": 4135,
+            "transaction_type": "aplicacion",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "6431fb9455884a3bb29cd339975ef74b",
+            "source": "paypal"
+        },
+        {
+            "amount": 7401,
+            "transaction_type": "transferencia",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "18e895bcb06a4d21a04334d3c41de42f",
+            "source": "paypal"
+        },
+        {
+            "amount": 7675,
+            "transaction_type": "pagina-web",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "0ead70c37c19463eaf6f11219d17314c",
+            "source": "conekta"
+        },
+        {
+            "amount": 7358,
+            "transaction_type": "aplicacion",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "ae893e95caa8466b9ad1b0998b617e7d",
+            "source": "openpay"
+        },
+        {
+            "amount": 4336,
+            "transaction_type": "aplicacion",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "e20411800e7444d2a79c6a99799d978d",
+            "source": "conekta"
+        },
+        {
+            "amount": 7998,
+            "transaction_type": "pagina-web",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "19760fc5bf2c4e4b8f9338102627d00f",
+            "source": "mercado-pago"
+        }
+    ],
+    "628-22-7520": [
+        {
+            "amount": 7503,
+            "transaction_type": "aplicacion",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "423a9bbe52344364a3f054d929d7ce49",
+            "source": "paypal"
+        },
+        {
+            "amount": 6700,
+            "transaction_type": "pagina-web",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "454730edf45f43319bef1fdeead60aff",
+            "source": "paypal"
+        },
+        {
+            "amount": 3907,
+            "transaction_type": "transferencia",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "1d5e8e09edd44289aeed514c15adfd82",
+            "source": "paypal"
+        },
+        {
+            "amount": 6661,
+            "transaction_type": "transferencia",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "c3ef154598924cd29513f00425c97b6d",
+            "source": "conekta"
+        },
+        {
+            "amount": 6681,
+            "transaction_type": "pagina-web",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "0839190d8ef64945986cb44cec7afec0",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 7730,
+            "transaction_type": "pagina-web",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "4de377ecb0d447b79bfc3e0ddbdba99d",
+            "source": "conekta"
+        },
+        {
+            "amount": 5548,
+            "transaction_type": "pagina-web",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "bc01e976ee994b5d95b97ae02de623c8",
+            "source": "openpay"
+        },
+        {
+            "amount": 4426,
+            "transaction_type": "pagina-web",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "d11e18303dcd41ffb9ebe5b133548d81",
+            "source": "paypal"
+        },
+        {
+            "amount": 6055,
+            "transaction_type": "aplicacion",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "dcf01d38a71e4a888ec9b2f9ed0d03e0",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 4103,
+            "transaction_type": "transferencia",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "ab2bb01440f3486996fc1a512c84897a",
+            "source": "openpay"
+        }
+    ],
+    "364-79-2122": [
+        {
+            "amount": 4644,
+            "transaction_type": "transferencia",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "48dda17ccee14b1c834887e3e3722753",
+            "source": "conekta"
+        },
+        {
+            "amount": 2686,
+            "transaction_type": "aplicacion",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "088ee7212d6a49cd9ee9fc51db7b891e",
+            "source": "openpay"
+        },
+        {
+            "amount": 7893,
+            "transaction_type": "transferencia",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "4ad4e78579cd45e397f54e851934cac9",
+            "source": "conekta"
+        },
+        {
+            "amount": 2993,
+            "transaction_type": "transferencia",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "6b735fa92c684021b21ec3f86024c359",
+            "source": "mercado-pago"
+        }
+    ],
+    "426-85-8155": [
+        {
+            "amount": 5107,
+            "transaction_type": "aplicacion",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "b7c14bc979fe4de48f6a1c30694ddaf1",
+            "source": "conekta"
+        }
+    ],
+    "741-75-5188": [
+        {
+            "amount": 6039,
+            "transaction_type": "aplicacion",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "4e76b95f3f9546bb88a54d0a0b918185",
+            "source": "openpay"
+        },
+        {
+            "amount": 3292,
+            "transaction_type": "aplicacion",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "28164dfae287478ca9773519d34f87af",
+            "source": "openpay"
+        },
+        {
+            "amount": 5824,
+            "transaction_type": "transferencia",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "652c484016684be6adaef913bba58e0d",
+            "source": "conekta"
+        },
+        {
+            "amount": 2625,
+            "transaction_type": "pagina-web",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "4a92e5698d6d456baa96da89b7ad4cff",
+            "source": "conekta"
+        },
+        {
+            "amount": 7818,
+            "transaction_type": "pagina-web",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "1ce5465de830419c922f0336e8d5a0bf",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 4049,
+            "transaction_type": "pagina-web",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "3c7c42fd7086439a8554e24e91165834",
+            "source": "paypal"
+        },
+        {
+            "amount": 5526,
+            "transaction_type": "transferencia",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "7733a4bc443d462a904e0d6ef191a0fc",
+            "source": "conekta"
+        }
+    ],
+    "700-86-7132": [
+        {
+            "amount": 5620,
+            "transaction_type": "transferencia",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "c935bb12e7d94864b564a9aa55a99d3c",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 3350,
+            "transaction_type": "aplicacion",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "89fe761c48314189ba7e64ac75cf9d5a",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 7165,
+            "transaction_type": "pagina-web",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "5303d1082fd7438392485d3a17631dad",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 4036,
+            "transaction_type": "pagina-web",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "48bc20adc96f47d3abd1cfef65adc318",
+            "source": "conekta"
+        },
+        {
+            "amount": 3897,
+            "transaction_type": "aplicacion",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "d3cffdaf4ebb49bb91924dcffc8872be",
+            "source": "openpay"
+        },
+        {
+            "amount": 4048,
+            "transaction_type": "aplicacion",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "465395c9c3204040a6d11eb0b9f8525a",
+            "source": "openpay"
+        },
+        {
+            "amount": 5145,
+            "transaction_type": "aplicacion",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "a57cd98ac6954e2db6d14bca92cedc4f",
+            "source": "conekta"
+        },
+        {
+            "amount": 3192,
+            "transaction_type": "transferencia",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "f1c50a6723f947a089f127f2439be8e8",
+            "source": "conekta"
+        },
+        {
+            "amount": 6958,
+            "transaction_type": "pagina-web",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "9ad5cf9b720043a0a6de4046352dc3d7",
+            "source": "openpay"
+        },
+        {
+            "amount": 5805,
+            "transaction_type": "pagina-web",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "d5f3f06df1d84b01a47bb9eb08004b5f",
+            "source": "conekta"
+        }
+    ],
+    "678-05-7326": [
+        {
+            "amount": 6872,
+            "transaction_type": "transferencia",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "4cdd38301fc4494bbc240764b8cb5b2a",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 3425,
+            "transaction_type": "aplicacion",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "c3c608cb29764a32a79b6151ccb90ab6",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 3863,
+            "transaction_type": "aplicacion",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "4a00d1337618453bac8e0263d0502fdc",
+            "source": "openpay"
+        },
+        {
+            "amount": 5821,
+            "transaction_type": "pagina-web",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "452c740417274ae9a433ddd96243d927",
+            "source": "conekta"
+        },
+        {
+            "amount": 2961,
+            "transaction_type": "aplicacion",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "dc17fd93cf12422a862979e14855f146",
+            "source": "openpay"
+        },
+        {
+            "amount": 4781,
+            "transaction_type": "transferencia",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "84e6a7bbfcd34b24b8e4d69dfe1db656",
+            "source": "paypal"
+        },
+        {
+            "amount": 4379,
+            "transaction_type": "transferencia",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "ad12a681d9f9436e840192b73e8685c1",
+            "source": "conekta"
+        },
+        {
+            "amount": 2777,
+            "transaction_type": "aplicacion",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "58ff1cd96511480f8ad5b021e9115562",
+            "source": "openpay"
+        },
+        {
+            "amount": 5602,
+            "transaction_type": "aplicacion",
+            "status": "PENDING",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "1937b09089f54540a1f5925c9b51f92d",
+            "source": "conekta"
+        },
+        {
+            "amount": 2763,
+            "transaction_type": "aplicacion",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "7711f1809f8b4f0d8a87ad5ab0963442",
+            "source": "paypal"
+        }
+    ],
+    "731-16-7001": [],
+    "841-10-5854": [],
+    "321-32-8498": [
+        {
+            "amount": 4028,
+            "transaction_type": "transferencia",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "9f6c1a9b16f449d29551178b80dbf7e4",
+            "source": "conekta"
+        },
+        {
+            "amount": 4886,
+            "transaction_type": "transferencia",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "24eb530ee24a4bd997bf6574f8054e88",
+            "source": "paypal"
+        },
+        {
+            "amount": 6121,
+            "transaction_type": "aplicacion",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "c5f26eefa54947d38025a24b2baa2c46",
+            "source": "conekta"
+        },
+        {
+            "amount": 3752,
+            "transaction_type": "transferencia",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "f5d99d7894c94125be9a1112448b01f8",
+            "source": "openpay"
+        },
+        {
+            "amount": 7427,
+            "transaction_type": "pagina-web",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "cbc2b67ca6e14e748da94f81c65e2cc3",
+            "source": "openpay"
+        },
+        {
+            "amount": 5783,
+            "transaction_type": "pagina-web",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "85252bda8b894452b25bf012dd38e215",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 6167,
+            "transaction_type": "transferencia",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "af3fab3402a74b5b92ad806d54497727",
+            "source": "openpay"
+        },
+        {
+            "amount": 5729,
+            "transaction_type": "pagina-web",
+            "status": "DECLINED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "98c7dca6754d4e35a4615c5914242fe4",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 7309,
+            "transaction_type": "transferencia",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "02749f75d1394ae69a95f4d1dc2081ea",
+            "source": "conekta"
+        },
+        {
+            "amount": 6480,
+            "transaction_type": "pagina-web",
+            "status": "IN-PROGRESS",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "519a1ebbc3ce4a8296aa7fc13867fc43",
+            "source": "paypal"
+        }
+    ],
+    "839-70-9476": [
+        {
+            "amount": 5398,
+            "transaction_type": "transferencia",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "76741ffa301742148dfc090b639e813c",
+            "source": "paypal"
+        },
+        {
+            "amount": 6463,
+            "transaction_type": "transferencia",
+            "status": "COMPLETED",
+            "creation_date": "28/05/2025 00:00:00",
+            "transaction_id": "dd31c4e51ff74d5e8fed3d1fd3331b36",
+            "source": "paypal"
+        }
+    ]
+}
