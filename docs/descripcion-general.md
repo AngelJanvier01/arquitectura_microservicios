@@ -28,3 +28,13 @@ La siguiente figura describe la vista de contexto general del sistema y se encue
 Cada microservicio puede desarrollarse y desplegarse de forma independiente. Los servicios se comunican a través de HTTP y el gateway expone las rutas públicas.
 
 Para más información sobre cada componente se pueden consultar los archivos `README.md` de cada carpeta.
+
+## Diagramas del sistema
+
+El archivo `gss-diagrams.drawio` incluye:
+
+1. **Contexto** del Global Surance System.
+2. **Vista de módulos** con los microservicios que conforman el patrón de arquitectura.
+3. **Elementos de Tyk** utilizados para exponer las APIs.
+
+Puedes abrir el archivo con [diagrams.net](https://www.diagrams.net/) para inspeccionar y modificar los diagramas.
